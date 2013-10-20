@@ -1,4 +1,5 @@
 secret-santa
 ============
 
-it's a secret
+mvn clean cobertura:cobertura
+ 
